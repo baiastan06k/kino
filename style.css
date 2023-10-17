@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(rgb(238, 17, 17), rgb(18, 73, 18), rgb(28, 28, 212));
+    margin: 0%;
+}
+
+.main{
+    border: 4px solid goldenrod;
+    height: 700px;
+}
+.pictor img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 4px solid gold;
+}
+h2{
+    color: white;
+    text-transform: uppercase;
+}
+b{
+    color: black;
+}
+span{
+    color: brown;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.links{
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid gold;
+    border-width: 2px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    max-width: 320px;
+}
